@@ -1,2 +1,2 @@
 # Pyspark-Playground
-A Pyyspark repository
+A Pyspark repository
