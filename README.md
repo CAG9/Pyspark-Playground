@@ -1,7 +1,9 @@
 # Pyspark-Playground
-A Pyspark repository 
+A repository for storing concept and coode of PySpark.
 ## Author
-César Arcos González | cesar99ag@gmail.com
+- Cesar Arcos-Gonzalez: cesar99ag@gmail.com
 ## License
-Mit license
-
+MIT License
+## Tools and Technologies
+- Pyspark
+- Databricks
